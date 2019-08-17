@@ -14,6 +14,7 @@ namespace test_177_app
 {
     public class Startup
     {
+        //Test comment
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
